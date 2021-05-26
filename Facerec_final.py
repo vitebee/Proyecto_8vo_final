@@ -52,7 +52,7 @@ status = 0
 contra = 0
 time = 0
 regreso = 0
-password = "1998"
+password = "1234"
 print("Loading - 100%")
 while True:
     while status == 0:
